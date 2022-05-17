@@ -1,0 +1,39 @@
+#EXTM3U
+
+#Nasional Channel
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_net_big1.png" group-title="Nasional Channel",NET TV
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1652795511/ei/F1SDYpmoLsKk4gLdlY3QCQ/ip/103.49.189.58/id/7qAJ5exbTGA.1/source/yt_live_broadcast/requiressl/yes/tx/24206504/txs/24206051%2C24206052%2C24206503%2C24206504/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/4ocVC7U1w0NEhV7YOeNrLjXu4a3Gr7jmoF2ARD0H9Q/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgFt_wOq2jjyub_Q3TBmOJXsgU03SVJCst5gOMG3mM1y0CIQCm-QTWOL4a0GP8WzRUj7p6YYzGMIpN9YQorFMgH9d6IA%3D%3D/file/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/rcti.png" group-title="Nasional Channel",RCTI
+https://d1p83s84hrxz1t.cloudfront.net/RCTI2022.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/mnctv.png" group-title="Nasional Channel",MNCTV
+https://d1y5zdfadx9n48.cloudfront.net/MNCTV2022.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/gtv.png" group-title="Nasional Channel",GTV
+https://d9se4hqsqt2j2.cloudfront.net/GTV2022.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_sctv_big1.png" group-title="Nasional Channel",SCTV (Server)
+https://etslive-2-vidio-com.akamaized.net/exp=1652738892~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/
+
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_indosiar_big1.png" group-title="Nasional Channel",Indosiar (Server)
+https://etslive-2-vidio-com.akamaized.net/exp=1652737256~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=ebf0ba602bf8e66225ded55e4
+
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_antv_big1.png" group-title="Nasional Channel",ANTV (Server)
+https://live-production.secureswiftcontent.com/exp=1652738740~acl=/hls-p/ingest_782_*/*~hmac=a9db0eea52dea91746fd30f2f5332ee28f
+
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_trans7_big1.png" group-title="Nasional Channel",Trans 7 (Server)
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1708112240_b744100_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_transtv_big1.png" group-title="Nasional Channel",TransTV (Server)
+https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w1328219490_b172100_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_jaktv_big1.png" group-title="Nasional Channel",JakTV (Server)
+https://live-production.secureswiftcontent.com/exp=1652770476~acl=/hls-p/ingest_5415_*/*~hmac=790bf805f39939b644be832a056e622e68262909734cc16fc63e533bac733e5c/hls-p/ingest_5415_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://s0.bukalapak.com/img/5249020732/large/Stiker_Rajawali_Tv_RTV_Cutting_Sticker.jpg" group-title="Nasional Channel",Rajawali TV (Server)
+https://etslive-2-vidio-com.akamaized.net/exp=1652777454~acl=/hls-p/ingest_1561_*/*~hmac=96c75add458d817b3e8e32e8df3cb190181001684a9e1f470ad3288d63f10270/hls-p/ingest_1561_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/aEDWJbWIiVx9z1AgyGF8YouaCi4=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/187464/ochannel-58e058.jpg" group-title="Nasional Channel",oChannel TV (Server)
+https://etslive-2-vidio-com.akamaized.net/exp=1652778603~acl=/hls-p/ingest_206_*/*~hmac=b1da559f969fc3c439dc3768b10cfe55723ce717ae489bcf11d999c240f43c2a/hls-p/ingest_206_720p/index.m3u8
