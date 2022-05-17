@@ -56,7 +56,7 @@ https://streaming.useetv.com/joss/130/antara/playlist.m3u8?enc=tjXGR-Cmxk9FW5nwf
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bf3a76722204472aa45938f2b67ef808/chunklist_b4628000.m3u8?p=79&s=1652758326&e=1652758446&h=d7c4fb9d4f9e1d00fbaea8e307fd8ed0
 
 #EXTINF:-1 tvg-logo="https://s0.bukalapak.com/img/5249020732/large/Stiker_Rajawali_Tv_RTV_Cutting_Sticker.jpg" group-title="Local Channel",Rajawali TV (Server)
-https://streaming.useetv.com/joss/130/rtv/playlist.m3u8?enc=HCNdsU1qcGStmExqBANZUg&exp=1652761092&encp=FluKDtfCVTBvgujTe0jrDQ&expp=1652769792
+https://app-etslive-2.vidio.com/live/1561/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/aEDWJbWIiVx9z1AgyGF8YouaCi4=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/187464/ochannel-58e058.jpg" group-title="Local Channel",oChannel TV (Server)
-https://etslive-2-vidio-com.akamaized.net/exp=1652775324~acl=/hls-p/ingest_206_*/*~hmac=2104ec5e12b1fde5b0cbb4664128cf5a833af9e6a83c9bb8d4ada83c16793cfe/hls-p/ingest_206_240p/index.m3u8
+https://app-etslive-2.vidio.com/live/206/master.m3u8
