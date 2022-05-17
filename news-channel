@@ -25,3 +25,7 @@ https://streaming.useetv.com/joss/130/antara/playlist.m3u8?enc=Ntt_z6KpN0yFvr4om
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_idx_small.png" group-title="News Channel",IDXTV
 https://streaming.useetv.com/joss/134/idx/playlist.m3u8?enc=egZjtblNrhJkgk5vikihSg&exp=1652830527&encp=S8B7CxALVsIBCReeiomVlw&expp=1652839227
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_small.png" group-title="News Channel",MNC News
+
+https://streaming.useetv.com/joss/134/mncnews/playlist.m3u8?enc=GUQJgCambuZRlbSmE7uDaw&exp=1652831169&encp=s7uNnZXoYotHBGJsHdKFXw&expp=1652839869
