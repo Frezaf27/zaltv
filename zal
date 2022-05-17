@@ -48,3 +48,6 @@ https://www.dailymotion.com/cdn/live/video/x6pz4sa.m3u8?sec=Tjewk3rFVJozwdWHpNjg
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_jaktv_big1.png" group-title="Local Channel",JakTV (Server)
 https://live-production.secureswiftcontent.com/exp=1652770476~acl=/hls-p/ingest_5415_*/*~hmac=790bf805f39939b644be832a056e622e68262909734cc16fc63e533bac733e5c/hls-p/ingest_5415_720p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_antara_big1.png" group-title="Local Channel",AntaraTV (Server)
+https://streaming.useetv.com/joss/130/antara/playlist.m3u8?enc=tjXGR-Cmxk9FW5nwfbd9Qw&exp=1652756894&encp=A_3YAJhCWmVF3v7lxiKDtg&expp=1652765594
