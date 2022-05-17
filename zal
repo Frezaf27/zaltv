@@ -55,5 +55,5 @@ https://www.dailymotion.com/cdn/manifest/video/x74cwzs.m3u8?sec=pe-d8PxyTIGQPPQj
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/blob/master/TV%20Logos/logo_kompastv_big1.png" group-title="Local Channel",KompasTV (Server)
 https://www.dailymotion.com/cdn/live/video/x6pz4sa.m3u8?sec=Tjewk3rFVJozwdWHpNjg2RXJH4vldFcJqYvGlUD12iPdXBgdeXDeTzg7EH1pwZjl-2EeAvfHJ_nzFScdwnnIyw&dmTs=976271&dmV1st=5A6136389B770BF494EEE45D9B6F9B50
 
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/blob/master/TV%20Logos/logo_jaktv_big1.png" group-title="Local Channel",JakTV (Server)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_jaktv_big1.png" group-title="Local Channel",JakTV (Server)
 https://live-production.secureswiftcontent.com/exp=1652770476~acl=/hls-p/ingest_5415_*/*~hmac=790bf805f39939b644be832a056e622e68262909734cc16fc63e533bac733e5c/hls-p/ingest_5415_720p/index.m3u8
