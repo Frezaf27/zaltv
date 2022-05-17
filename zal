@@ -43,7 +43,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1652776256/ei/4
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/blob/master/TV%20Logos/logo_metrotv_big1.png" group-title="Local Channel",MetroTV (Server)
 https://www.dailymotion.com/cdn/manifest/video/x74cwzs.m3u8?sec=pe-d8PxyTIGQPPQj2C_6XBzj_qyimUNTurQglZE25059XLZ5WJIV5THuUG0Q0YDhRr0ZCq-gIbgmlPqstc--DA&dmTs=976271&dmV1st=5A6136389B770BF494EEE45D9B6F9B50
 
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/blob/master/TV%20Logos/logo_kompastv_big1.png" group-title="Local Channel",KompasTV (Server)
+#EXTINF:-1 tvg-logo="https://media.kompas.tv/webassets/assets_v1/365x100web.png" group-title="Local Channel",KompasTV (Server)
 https://www.dailymotion.com/cdn/live/video/x6pz4sa.m3u8?sec=Tjewk3rFVJozwdWHpNjg2RXJH4vldFcJqYvGlUD12iPdXBgdeXDeTzg7EH1pwZjl-2EeAvfHJ_nzFScdwnnIyw&dmTs=976271&dmV1st=5A6136389B770BF494EEE45D9B6F9B50
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_jaktv_big1.png" group-title="Local Channel",JakTV (Server)
