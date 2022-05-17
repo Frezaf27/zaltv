@@ -1,0 +1,6 @@
+#EXTM3U
+
+#International Channel
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dwtv_small.png?v=2.0.0.13A5cqmbuYjp4UxR1bG7V4R4Cft5HhdpuqSE" group-title="International Channel",DW English TV
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
