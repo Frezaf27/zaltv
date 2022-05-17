@@ -9,7 +9,13 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/bf3a76722204472aa45938f2b67ef808/c
 https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w48704894_b1596000.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dMEGEYjDrxo/X5iVsneE3kI/AAAAAAAAqMM/WNteVon_VOcAESdwt-NhzIUIY5Gs80ZMwCLcBGAsYHQ/s0/ajwa-tv-channel-logo.png" group-title="Religi Channel",AjwaTV (Server)
-https://live-production.secureswiftcontent.com/exp=1652785265~acl=/hls-p/ingest_7464_*/*~hmac=7ff5767fd41a61fa51de78fa55a06ac5a47973bd13c4697054045558c840d872/hls-p/ingest_7464_720p/index.m3u8v
+https://live-production.secureswiftcontent.com/exp=1652785265~acl=/hls-p/ingest_7464_*/*~hmac=7ff5767fd41a61fa51de78fa55a06ac5a47973bd13c4697054045558c840d872/hls-p/ingest_7464_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi Channel",tvMu (Server)
 https://cdn14jtedge.useetv.com/joss/130/muhammadiyahtv/chunklist_w434894217_b1004100_sleng.m3u8?enc=eB1BAhGJJcwoO1txUYL_8A&uid=&exp=1652780181
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tv9_small.png?v=2.0.0.13" group-title="Religi Channel", TV9 NU (Server)
+https://cdn09jtedge.useetv.com/joss/130/tv9/chunklist_w2047594854_b494100_sleng.m3u8?enc=krUqWfmjxdwQMBBwooG1jA&uid=&exp=1652781309
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tawaftvbaru_small.png" group-title="Religi Channel", Tawaf TV (Server)
+https://cdn09jtedge.useetv.com/joss/130/tawaftv/chunklist_w1276103110_b1004100_sleng.m3u8?enc=4dIRTnEc7Om4PLcECPXqyQ&uid=&exp=1652781419
