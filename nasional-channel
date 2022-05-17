@@ -23,7 +23,7 @@ https://etslive-2-vidio-com.akamaized.net/exp=1652820177~acl=/vp9/204_stream.mpd
 https://etslive-2-vidio-com.akamaized.net/exp=1652820558~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=625677528df733c79d182b3e87e4b738fc01b241388cfdde4fbbf0cbcd45f6a2/vp9/205_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_antv_big1.png" group-title="Nasional Channel",ANTV
-https://live-production.secureswiftcontent.com/exp=1652738740~acl=/hls-p/ingest_782_*/*~hmac=a9db0eea52dea91746fd30f2f5332ee28f
+https://live-production.secureswiftcontent.com/exp=1652820862~acl=/hls-p/ingest_782_*/*~hmac=a10ac8eecc513f7f2f02e0647f6c29a8088fcbd153f6bb4ba69d2dcfa6ecffc3/hls-p/ingest_782_240p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_trans7_big1.png" group-title="Nasional Channel",Trans7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1708112240_b744100_sleng.m3u8
