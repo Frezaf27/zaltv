@@ -17,7 +17,7 @@ https://d9se4hqsqt2j2.cloudfront.net/GTV2022.m3u8
 https://d3o5yreltwquyt.cloudfront.net/INEWS2022.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_sctv_big1.png" group-title="Nasional Channel",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1652738892~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/
+https://etslive-2-vidio-com.akamaized.net/vp9/204_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_indosiar_big1.png" group-title="Nasional Channel",Indosiar
 https://etslive-2-vidio-com.akamaized.net/exp=1652737256~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=ebf0ba602bf8e66225ded55e4
