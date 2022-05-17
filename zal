@@ -51,3 +51,6 @@ https://live-production.secureswiftcontent.com/exp=1652770476~acl=/hls-p/ingest_
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_antara_big1.png" group-title="Local Channel",AntaraTV (Server)
 https://streaming.useetv.com/joss/130/antara/playlist.m3u8?enc=tjXGR-Cmxk9FW5nwfbd9Qw&exp=1652756894&encp=A_3YAJhCWmVF3v7lxiKDtg&expp=1652765594
+
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQGCFy-uLzapXA/company-logo_200_200/0/1645424685314?e=2147483647&v=beta&t=Vvd5HryR-A5cqmbuYjp4UxR1bG7V4R4Cft5HhdpuqSE" group-title="Local Channel",DAAI TV (Server)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/bf3a76722204472aa45938f2b67ef808/chunklist_b4628000.m3u8?p=79&s=1652758326&e=1652758446&h=d7c4fb9d4f9e1d00fbaea8e307fd8ed0
