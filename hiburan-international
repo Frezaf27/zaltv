@@ -1,15 +1,13 @@
 #EXTM3U
 
-#Hiburan International
+#Movie
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/an/D3GK7R00-Ik/88a2078e-bf97-46d9-9e50-787634abedd2_mq.jpg?v=58a76418" group-title="Hiburan International",MOTORVISIONTV
-http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Joq6-b6TISo/WAWGGLvFp8I/AAAAAAAAfxA/iDy1SN8pc-gng0AxNDiZsDUEbHuBW12-QCLcB/s1600/aniplus-channel-tv-logo.png" group-title="Hiburan International",ANIPLUS
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Joq6-b6TISo/WAWGGLvFp8I/AAAAAAAAfxA/iDy1SN8pc-gng0AxNDiZsDUEbHuBW12-QCLcB/s1600/aniplus-channel-tv-logo.png" group-title="Movie",ANIPLUS
 http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/HphQ7CbwfWYvscZsEBdBxzqdCvpLi60W-sZKo2G2N5zsF77LrV7qj3yvkJIgdaNpfDw=w300" group-title="Hiburan International",Animax
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/HphQ7CbwfWYvscZsEBdBxzqdCvpLi60W-sZKo2G2N5zsF77LrV7qj3yvkJIgdaNpfDw=w300" group-title="Movie",Animax
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Zee_Bioskop_2013.png/revision/latest?cb=20171105133741" group-title="Hiburan International",Zee Bioskop
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Zee_Bioskop_2013.png/revision/latest?cb=20171105133741" group-title="Movie",Zee Bioskop
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
