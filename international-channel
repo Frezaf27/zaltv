@@ -25,3 +25,6 @@ http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nstpl-nhk-world-premium-hd-logo-300x300.jpg" group-title="International Channel",NHK World
 http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.glydrs.com/wp-content/webpc-passthru.php?src=https://www.glydrs.com/wp-content/uploads/2021/03/TRT-WORLD-CO.jpg&nocache=1" group-title="International Channel",TRTWorld
+http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
