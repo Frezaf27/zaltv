@@ -1,33 +1,33 @@
 #EXTM3U
 
-#International Channel
+#International
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dwtv_small.png?v=2.0.0.13A5cqmbuYjp4UxR1bG7V4R4Cft5HhdpuqSE" group-title="International Channel",DW English TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dwtv_small.png?v=2.0.0.13A5cqmbuYjp4UxR1bG7V4R4Cft5HhdpuqSE" group-title="International",DW English TV
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Aljazeera_Net-logo-5F3FB4D040-seeklogo.com.png" group-title="International Channel",AljazeeraTV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Aljazeera_Net-logo-5F3FB4D040-seeklogo.com.png" group-title="International",AljazeeraTV
 http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/France_24-logo-7B73A4DA96-seeklogo.com.png" group-title="International Channel",France24TV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/France_24-logo-7B73A4DA96-seeklogo.com.png" group-title="International",France24TV
 http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://mcdonoughpartners.com/wp-content/uploads/2015/11/Bloomberg-Television-Logo-300x300.jpg" group-title="International Channel",BLOOMBERGTV
+#EXTINF:-1 tvg-logo="https://mcdonoughpartners.com/wp-content/uploads/2015/11/Bloomberg-Television-Logo-300x300.jpg" group-title="International",BLOOMBERGTV
 http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02105729/rock-entertainment-logo-300x300.png" group-title="International Channel",Rock Entertainment
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02105729/rock-entertainment-logo-300x300.png" group-title="International",Rock Entertainment
 http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="International Channel",K+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="International",K+
 http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.thetreedots.com/wp-content/uploads/2018/12/CNA-logo-300x300.png" group-title="International Channel",CNA
+#EXTINF:-1 tvg-logo="https://www.thetreedots.com/wp-content/uploads/2018/12/CNA-logo-300x300.png" group-title="International",CNA
 http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nstpl-nhk-world-premium-hd-logo-300x300.jpg" group-title="International Channel",NHK World
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nstpl-nhk-world-premium-hd-logo-300x300.jpg" group-title="International",NHK World
 http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.glydrs.com/wp-content/webpc-passthru.php?src=https://www.glydrs.com/wp-content/uploads/2021/03/TRT-WORLD-CO.jpg&nocache=1" group-title="International Channel",TRTWorld
+#EXTINF:-1 tvg-logo="https://www.glydrs.com/wp-content/webpc-passthru.php?src=https://www.glydrs.com/wp-content/uploads/2021/03/TRT-WORLD-CO.jpg&nocache=1" group-title="International",TRTWorld
 http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
 
-#EXTINF:-1 tvg-logo="https://pixlok.com/wp-content/uploads/2021/04/WION-News-Logo-PNG-300x300.jpg" group-title="International Channel",WION
+#EXTINF:-1 tvg-logo="https://pixlok.com/wp-content/uploads/2021/04/WION-News-Logo-PNG-300x300.jpg" group-title="International",WION
 http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
