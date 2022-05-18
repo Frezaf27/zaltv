@@ -1,6 +1,15 @@
 #EXTM3U
 
-#International Channel
+#International News Channel
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dwtv_small.png?v=2.0.0.13A5cqmbuYjp4UxR1bG7V4R4Cft5HhdpuqSE" group-title="International Channel",DW English TV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_dwtv_small.png?v=2.0.0.13A5cqmbuYjp4UxR1bG7V4R4Cft5HhdpuqSE" group-title="International News Channel",DW English TV
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Aljazeera_Net-logo-5F3FB4D040-seeklogo.com.png" group-title="International News Channel",AljazeeraTV
+http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/France_24-logo-7B73A4DA96-seeklogo.com.png" group-title="International News Channel",France24TV
+http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://mcdonoughpartners.com/wp-content/uploads/2015/11/Bloomberg-Television-Logo-300x300.jpg" group-title="International News Channel",BLOOMBERGTV
+http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
