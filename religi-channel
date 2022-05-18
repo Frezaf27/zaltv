@@ -26,5 +26,5 @@ https://streaming.useetv.com/joss/130/muitv/playlist.m3u8?enc=zjKQed6xGBKvG5DpHT
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religi Channel", MTATV
 https://streaming.useetv.com/joss/130/mtatv/playlist.m3u8?enc=Tc4OJfNC6bF0IeKxbjoXNw&exp=1652862440&encp=9DcQJnCVwkVd-z_ftAme0Q&expp=1652871140
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mqtv_small1.png?v=2.0.0.13" group-title="Religi Channel", Murotal Al Quran
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mqtv_small1.png?v=2.0.0.13" group-title="Religi Channel", MQTV
 https://streaming.useetv.com/joss/134/mqtv/playlist.m3u8?enc=P-zuB-FA3rAkADOKCD_bIA&exp=1652863039&encp=Y5L3TgQ7Tyb7cUFcO46U4Q&expp=1652871739
