@@ -22,3 +22,6 @@ https://cdn09jtedge.useetv.com/joss/130/tawaftv/chunklist_w1276103110_b1004100_s
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tvmui_small.png?v=2.0.0.13" group-title="Religi Channel", TVMUI
 https://streaming.useetv.com/joss/130/muitv/playlist.m3u8?enc=zjKQed6xGBKvG5DpHTc85w&exp=1652831649&encp=PrnPK81WK8JRHPsoUx3f4Q&expp=1652840349
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religi Channel", MTATV
+https://streaming.useetv.com/joss/130/mtatv/playlist.m3u8?enc=Tc4OJfNC6bF0IeKxbjoXNw&exp=1652862440&encp=9DcQJnCVwkVd-z_ftAme0Q&expp=1652871140
