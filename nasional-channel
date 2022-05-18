@@ -36,7 +36,7 @@ https://video.detik.com/transtv/smil:transtv-live.smil/chunklist_w1328219490_b17
 http://playlist.urfan.web.id/x6bnqe/s/s46/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://s0.bukalapak.com/img/5249020732/large/Stiker_Rajawali_Tv_RTV_Cutting_Sticker.jpg" group-title="Nasional Channel",RajawaliTV 
-https://etslive-2-vidio-com.akamaized.net/exp=1652777454~acl=/hls-p/ingest_1561_*/*~hmac=96c75add458d817b3e8e32e8df3cb190181001684a9e1f470ad3288d63f10270/hls-p/ingest_1561_720p/index.m3u8
+http://playlist.urfan.web.id/dr9445/h/h10/02.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vid.id/aEDWJbWIiVx9z1AgyGF8YouaCi4=/smart/filters:strip_icc():quality(70)/vidio-web-prod-user/uploads/user/avatar/187464/ochannel-58e058.jpg" group-title="Nasional Channel",oChannelTV
 https://etslive-2-vidio-com.akamaized.net/exp=1652778603~acl=/hls-p/ingest_206_*/*~hmac=b1da559f969fc3c439dc3768b10cfe55723ce717ae489bcf11d999c240f43c2a/hls-p/ingest_206_720p/index.m3u8
