@@ -9,7 +9,7 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/bf3a76722204472aa45938f2b67ef808/c
 https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w48704894_b1596000.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dMEGEYjDrxo/X5iVsneE3kI/AAAAAAAAqMM/WNteVon_VOcAESdwt-NhzIUIY5Gs80ZMwCLcBGAsYHQ/s0/ajwa-tv-channel-logo.png" group-title="Religi Channel",AjwaTV
-https://live-production.secureswiftcontent.com/exp=1652785265~acl=/hls-p/ingest_7464_*/*~hmac=7ff5767fd41a61fa51de78fa55a06ac5a47973bd13c4697054045558c840d872/hls-p/ingest_7464_720p/index.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1652886543~acl=/vp9/7464_stream.mpd!/vp9/7464/*!/vp9/*/7464_stream.mpd!/vp9/*/7464/*~hmac=41858884f056e566d68b78afbba96bf9987c5173eaf1518f17cf10b762b10432/vp9/7464_stream.mpd
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi Channel",tvMu
 https://streaming.useetv.com/joss/130/tv9/playlist.m3u8?enc=NC2234kqROCsOPXKVr22_w&exp=1652862665&encp=3J9mKpUMPS8PVH89zGntHQ&expp=1652871365
