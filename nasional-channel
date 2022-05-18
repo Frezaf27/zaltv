@@ -43,3 +43,30 @@ http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/ElshintaTV2019.png" group-title="Nasional",ElshintaTV
 http://rrelshinta.dens.tv/s/s10/index2.m3u8
+
+#EXTINF:-1 tvg-logo="https://bankimooncentre.org/wp-content/uploads/2020/06/cnn-logo-square-300x300.png" group-title="Nasional",CNN Indonesia
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1340142842_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_cnbcindonesia_big1.png" group-title="Nasional",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w824771152_b192000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_beritasatu_big1.png" group-title="Nasional",Beritasatu
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_tvone_big1.png" group-title="Nasional",tvOne
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://kampungdesigner.com/wp-content/uploads/edd/2020/06/Logo-Metro-TV-by-kampungdesigner.jpg" group-title="Nasional",MetroTV
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://happy-bus.id/wp-content/uploads/sites/7/2020/09/kompas-tv-300x300.jpg" group-title="Nasional",KompasTV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_antara_big1.png" group-title="Nasional",AntaraTV
+https://streaming.useetv.com/joss/130/antara/playlist.m3u8?enc=mvgYrLSuWIftG9R1eKCdFQ&exp=1652850387&encp=NYctuAix6DTy6mg1XXkcGw&expp=1652859087
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_idx_small.png" group-title="Nasional",IDXTV
+https://streaming.useetv.com/joss/134/idx/playlist.m3u8?enc=1ZRsMHPIuKB61tRRE48Ppw&exp=1652850708&encp=3AP91-ERdcxWwtv3sojQJQ&expp=1652859408
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_small.png" group-title="Nasional",MNC News
+https://cdn12jtedge.useetv.com/joss/134/mncnews/chunklist_w1179187402_b1004100_sleng.m3u8?enc=usB5V2VgIOAqLFlkD0HlCA&uid=&exp=1652859473
