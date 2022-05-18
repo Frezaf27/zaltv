@@ -13,3 +13,9 @@ http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://mcdonoughpartners.com/wp-content/uploads/2015/11/Bloomberg-Television-Logo-300x300.jpg" group-title="International Channel",BLOOMBERGTV
 http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn1.clickthecity.com/wp-content/uploads/2020/07/02105729/rock-entertainment-logo-300x300.png" group-title="International Channel",Rock Entertainment
+http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/K_Plus_Asia_Logo.jpg" group-title="International Channel",K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
