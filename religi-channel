@@ -12,7 +12,7 @@ https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w48704894_b1596000.m3u8
 https://live-production.secureswiftcontent.com/exp=1652785265~acl=/hls-p/ingest_7464_*/*~hmac=7ff5767fd41a61fa51de78fa55a06ac5a47973bd13c4697054045558c840d872/hls-p/ingest_7464_720p/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi Channel",tvMu
-https://cdn14jtedge.useetv.com/joss/130/muhammadiyahtv/chunklist_w434894217_b1004100_sleng.m3u8?enc=eB1BAhGJJcwoO1txUYL_8A&uid=&exp=1652780181
+https://streaming.useetv.com/joss/130/tv9/playlist.m3u8?enc=NC2234kqROCsOPXKVr22_w&exp=1652862665&encp=3J9mKpUMPS8PVH89zGntHQ&expp=1652871365
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tv9_small.png?v=2.0.0.13" group-title="Religi Channel", TV9 NU
 https://streaming.useetv.com/joss/130/tv9/playlist.m3u8?enc=NC2234kqROCsOPXKVr22_w&exp=1652862665&encp=3J9mKpUMPS8PVH89zGntHQ&expp=1652871365
