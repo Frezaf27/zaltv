@@ -1,30 +1,30 @@
 #EXTM3U
 
-#Religi Channel
+#Religi
 
-#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQGCFy-uLzapXA/company-logo_200_200/0/1645424685314?e=2147483647&v=beta&t=Vvd5HryR-A5cqmbuYjp4UxR1bG7V4R4Cft5HhdpuqSE" group-title="Religi Channel",DAAITV
+#EXTINF:-1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQGCFy-uLzapXA/company-logo_200_200/0/1645424685314?e=2147483647&v=beta&t=Vvd5HryR-A5cqmbuYjp4UxR1bG7V4R4Cft5HhdpuqSE" group-title="Religi",DAAITV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/bf3a76722204472aa45938f2b67ef808/chunklist_b4628000.m3u8?p=79&s=1652758326&e=1652758446&h=d7c4fb9d4f9e1d00fbaea8e307fd8ed0
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/P9qMD5_iSZz_MnhQW_mCD3T3T0po7PosjcA4uv4ddWbWhQarzbJ6bq67G9zqf4oTGQTR=w300" group-title="Religi Channel",RodjaTV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/P9qMD5_iSZz_MnhQW_mCD3T3T0po7PosjcA4uv4ddWbWhQarzbJ6bq67G9zqf4oTGQTR=w300" group-title="Religi",RodjaTV
 https://tv.rodja.live/live/ngrp:rodja_all/chunklist_w48704894_b1596000.m3u8
 
-#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dMEGEYjDrxo/X5iVsneE3kI/AAAAAAAAqMM/WNteVon_VOcAESdwt-NhzIUIY5Gs80ZMwCLcBGAsYHQ/s0/ajwa-tv-channel-logo.png" group-title="Religi Channel",AjwaTV
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-dMEGEYjDrxo/X5iVsneE3kI/AAAAAAAAqMM/WNteVon_VOcAESdwt-NhzIUIY5Gs80ZMwCLcBGAsYHQ/s0/ajwa-tv-channel-logo.png" group-title="Religi",AjwaTV
 https://etslive-2-vidio-com.akamaized.net/exp=1652886543~acl=/vp9/7464_stream.mpd!/vp9/7464/*!/vp9/*/7464_stream.mpd!/vp9/*/7464/*~hmac=41858884f056e566d68b78afbba96bf9987c5173eaf1518f17cf10b762b10432/vp9/7464_stream.mpd
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi Channel",tvMu
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_muhammadiyahtv_small1.png?v=2.0.0.13" group-title="Religi",tvMu
 https://streaming.useetv.com/joss/130/tv9/playlist.m3u8?enc=NC2234kqROCsOPXKVr22_w&exp=1652862665&encp=3J9mKpUMPS8PVH89zGntHQ&expp=1652871365
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tv9_small.png?v=2.0.0.13" group-title="Religi Channel", TV9 NU
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tv9_small.png?v=2.0.0.13" group-title="Religi", TV9 NU
 https://streaming.useetv.com/joss/130/tv9/playlist.m3u8?enc=NC2234kqROCsOPXKVr22_w&exp=1652862665&encp=3J9mKpUMPS8PVH89zGntHQ&expp=1652871365
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tawaftvbaru_small.png" group-title="Religi Channel", TawafTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tawaftvbaru_small.png" group-title="Religi", TawafTV
 https://streaming.useetv.com/joss/130/tawaftv/playlist.m3u8?enc=Ln6E4Z-lxB_NDM574m53GQ&exp=1652862994&encp=BqMkSCt8_LTpLRTFH_e3lA&expp=1652871694
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tvmui_small.png?v=2.0.0.13" group-title="Religi Channel", TVMUI
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tvmui_small.png?v=2.0.0.13" group-title="Religi", TVMUI
 https://streaming.useetv.com/joss/130/muitv/playlist.m3u8?enc=zjKQed6xGBKvG5DpHTc85w&exp=1652831649&encp=PrnPK81WK8JRHPsoUx3f4Q&expp=1652840349
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religi Channel", MTATV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mtatv_small1.png?v=2.0.0.13" group-title="Religi", MTATV
 https://streaming.useetv.com/joss/130/mtatv/playlist.m3u8?enc=Tc4OJfNC6bF0IeKxbjoXNw&exp=1652862440&encp=9DcQJnCVwkVd-z_ftAme0Q&expp=1652871140
 
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mqtv_small1.png?v=2.0.0.13" group-title="Religi Channel", MQTV
+#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mqtv_small1.png?v=2.0.0.13" group-title="Religi", MQTV
 https://streaming.useetv.com/joss/134/mqtv/playlist.m3u8?enc=P-zuB-FA3rAkADOKCD_bIA&exp=1652863039&encp=Y5L3TgQ7Tyb7cUFcO46U4Q&expp=1652871739
