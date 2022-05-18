@@ -15,7 +15,7 @@ https://live-production.secureswiftcontent.com/exp=1652785265~acl=/hls-p/ingest_
 https://cdn14jtedge.useetv.com/joss/130/muhammadiyahtv/chunklist_w434894217_b1004100_sleng.m3u8?enc=eB1BAhGJJcwoO1txUYL_8A&uid=&exp=1652780181
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tv9_small.png?v=2.0.0.13" group-title="Religi Channel", TV9 NU
-https://cdn09jtedge.useetv.com/joss/130/tv9/chunklist_w2047594854_b494100_sleng.m3u8?enc=krUqWfmjxdwQMBBwooG1jA&uid=&exp=1652781309
+https://streaming.useetv.com/joss/130/tv9/playlist.m3u8?enc=NC2234kqROCsOPXKVr22_w&exp=1652862665&encp=3J9mKpUMPS8PVH89zGntHQ&expp=1652871365
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tawaftvbaru_small.png" group-title="Religi Channel", TawafTV
 https://cdn09jtedge.useetv.com/joss/130/tawaftv/chunklist_w1276103110_b1004100_sleng.m3u8?enc=4dIRTnEc7Om4PLcECPXqyQ&uid=&exp=1652781419
