@@ -17,10 +17,10 @@ https://d9se4hqsqt2j2.cloudfront.net/GTV2022.m3u8
 https://d3o5yreltwquyt.cloudfront.net/INEWS2022-avc1_100000=8.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_sctv_big1.png" group-title="Nasional Channel",SCTV
-https://etslive-2-vidio-com.akamaized.net/exp=1652820177~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=732d4d76110bf06bc2c7ce9953faa830cf54a2102d2c0e456f54890018b87d1d/vp9/204_stream.mpd
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_indosiar_big1.png" group-title="Nasional Channel",Indosiar
-https://etslive-2-vidio-com.akamaized.net/exp=1652820558~acl=/vp9/205_stream.mpd!/vp9/205/*!/vp9/*/205_stream.mpd!/vp9/*/205/*~hmac=625677528df733c79d182b3e87e4b738fc01b241388cfdde4fbbf0cbcd45f6a2/vp9/205_stream.mpd
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_antv_big1.png" group-title="Nasional Channel",ANTV
 https://live-production.secureswiftcontent.com/exp=1652820862~acl=/hls-p/ingest_782_*/*~hmac=a10ac8eecc513f7f2f02e0647f6c29a8088fcbd153f6bb4ba69d2dcfa6ecffc3/hls-p/ingest_782_240p/index.m3u8
