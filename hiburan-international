@@ -10,3 +10,6 @@ http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/HphQ7CbwfWYvscZsEBdBxzqdCvpLi60W-sZKo2G2N5zsF77LrV7qj3yvkJIgdaNpfDw=w300" group-title="Hiburan International",Animax
 http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Zee_Bioskop_2013.png/revision/latest?cb=20171105133741" group-title="Hiburan International",Zee Bioskop
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
