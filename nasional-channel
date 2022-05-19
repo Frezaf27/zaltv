@@ -70,3 +70,6 @@ https://streaming.useetv.com/joss/134/idx/playlist.m3u8?enc=w_l-HqHfN4hAcJDF8HJ0
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_small.png" group-title="Nasional",MNC News
 https://cdn12jtedge.useetv.com/joss/134/mncnews/chunklist_w1179187402_b1004100_sleng.m3u8?enc=usB5V2VgIOAqLFlkD0HlCA&uid=&exp=1652859473
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Frezaf27/zaltv/main/Showbiz.jpg" group-title="Nasional",Dens ShowBiz
+http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
