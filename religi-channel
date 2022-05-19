@@ -18,7 +18,7 @@ https://tvmu.siar.us/tvmu/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tawaftvbaru_small.png" group-title="Religi", TawafTV
-https://streaming.useetv.com/joss/130/tawaftv/playlist.m3u8?enc=Ln6E4Z-lxB_NDM574m53GQ&exp=1652862994&encp=BqMkSCt8_LTpLRTFH_e3lA&expp=1652871694
+https://dgbgs3f3e3nka.cloudfront.net/hls/hanyacoba.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_tvmui_small.png?v=2.0.0.13" group-title="Religi", TVMUI
 https://streaming.useetv.com/jhos/sbr/muitv.m3u8?stime=20190220190000&etime=20190220210000&encoded=08cb7e8d7f669051855b2
