@@ -45,7 +45,7 @@ http://playlist.urfan.web.id/x6bnqe/s/s73/S4/mnf.m3u8
 http://rrelshinta.dens.tv/s/s10/index2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_cnnindonesia_big1.png" group-title="Nasional",CNN Nasional
-https://raw.githubusercontent.com/Frezaf27/zaltv/main/playlist.m3u8
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w8055614_b384000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_cnbcindonesia_big1.png" group-title="Nasional",CNBC Nasional
 https://live.cnbcNasional.com/livecnbc/smil:cnbctv.smil/chunklist_w824771152_b192000_sleng.m3u8
