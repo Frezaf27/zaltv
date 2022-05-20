@@ -62,14 +62,5 @@ http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
 #EXTINF:-1 tvg-logo="https://happy-bus.id/wp-content/uploads/sites/7/2020/09/kompas-tv-300x300.jpg" group-title="Nasional",KompasTV
 http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Nasionaln-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_antara_big1.png" group-title="Nasional",AntaraTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_antara_big1.png" group-title="Nasional",AntaraTV
 https://streaming.useetv.com/joss/130/antara/playlist.m3u8?enc=aNYVDsccgRevHHGfWnuw2A&exp=1652973895&encp=gcuVRxnR2zV4ZLVpt4r6wg&expp=1652982595
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_idx_small.png" group-title="Nasional",IDXTV
-https://cdn-livetv-studio.metube.id/idxchannel.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.useetv.com/pimages/logo_mncnews_small.png" group-title="Nasional",MNC News
-https://cdn12jtedge.useetv.com/joss/134/mncnews/chunklist_w1179187402_b1004100_sleng.m3u8?enc=usB5V2VgIOAqLFlkD0HlCA&uid=&exp=1652859473
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Frezaf27/zaltv/main/Showbiz.jpg" group-title="Nasional",Dens ShowBiz
-http://playlist.urfan.web.id/x6bnqe/s/s35/S4/mnf.m3u8
