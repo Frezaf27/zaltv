@@ -12,5 +12,8 @@ http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Zee_Bioskop_2013.png/revision/latest?cb=20171105133741" group-title="Movie",Zee Bioskop
 http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Frezaf27/zaltv/main/images%20(5)%20(1).jpeg" group-title="Movie",TVN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Frezaf27/zaltv/main/images%20(5)%20(1).jpeg" group-title="Movie",TVN Asia
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Frezaf27/zaltv/main/tvn.jpg" group-title="Movie",TVN Movies
 http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
