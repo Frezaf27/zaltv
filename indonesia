@@ -1,10 +1,10 @@
 #EXTM3U
 
 #Nasional
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Nasionaln-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_net_big1.png" group-title="Nasional",NET TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_net_big1.png" group-title="Nasional",NET TV
 http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Nasionaln-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/rcti.png" group-title="Nasional",RCTI
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/rcti.png" group-title="Nasional",RCTI
 https://d1p83s84hrxz1t.cloudfront.net/RCTI2022.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Nasionaln-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/mnctv.png" group-title="Nasional",MNCTV
