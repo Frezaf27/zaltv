@@ -50,7 +50,7 @@ https://live.cnnNasional.com/livecnn/smil:cnntv.smil/chunklist_w1340142842_b1920
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_cnbcindonesia_big1.png" group-title="Nasional",CNBC Nasional
 https://live.cnbcNasional.com/livecnbc/smil:cnbctv.smil/chunklist_w824771152_b192000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Nasionaln-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_beritasatu_big1.png" group-title="Nasional",Beritasatu
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/muhrizki1996/Indonesian-Free-Live-Stream-TV-Channels-Playlists/master/TV%20Logos/logo_beritasatu_big1.png" group-title="Nasional",Beritasatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
 #EXTINF:-1 tvg-logo="https://github.com/muhrizki1996/Nasionaln-Free-Live-Stream-TV-Channels-Playlists/raw/master/TV%20Logos/logo_tvone_big1.png" group-title="Nasional",tvOne
