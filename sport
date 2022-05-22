@@ -17,5 +17,5 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 #EXTINF:-1 tvg-logo"https://mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="Sport", BEINSPORT LA LIGA
 http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/482.ts?checkedby:iptvcat.com
 
-#EXTINF:-1 tvg-logo"https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png". group-title="Sport", NBATV
+#EXTINF:-1 tvg-logo"https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="Sport", NBATV
 https://playlist.trainingoc.com/nba-tv.m3u8
