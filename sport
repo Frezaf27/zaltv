@@ -14,9 +14,5 @@ http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Frezaf27/zaltv/main/tvri-sport.png" group-title="Sport",TVRI SPORT
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 
-#EXTINF:-1 tvg-logo"https://mncvision.id/userfiles/image/channel/beIN-1.jpg" group-title="Sport", BEINSPORT LA LIGA
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/482.ts?checkedby:iptvcat.com
-
-#EXTINF:-1 tvg-logo"https://seeklogo.com/images/N/nba-tv-logo-585DF08BF0-seeklogo.com.png" group-title="Sport", NBATV
-
-http://iptv.watchhd.cc:5050/kelevra321/UWqjWR89sRNT/334.ts?checkedby:iptvcat.com
+#EXTINF:-1 tvg-logo="https://parabolaku.com/wp-content/uploads/2021/09/spotv.png." group-title="Sports" group-title="Sports",SPOTV 1
+https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/SpoTv1-Kr.m3u8
