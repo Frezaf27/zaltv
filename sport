@@ -18,7 +18,7 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRI4)/index.m3u8
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/SpoTv1-Kr.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/BeinSport1.jpg/revision/latest/scale-to-width-down/284?cb=20170228204506" group-title="Sport",Bein Sports 1 English
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Bein-1En.m3u8
+https://playlist.trainingoc.com/bein-sport.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Beinsport2.jpg/revision/latest/scale-to-width-down/220?cb=20170302102513" group-title="Sport",Bein Sports 2 English
 https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Bein-2En.m3u8
